@@ -18,7 +18,8 @@ To begin using Burp Suite, I first needed to set up the **FoxyProxy** extension 
 
 *Below is a screenshot of the FoxyProxy configuration:*
 
-![FoxyProxy Configuration](images/FoxyProxy.png)
+![FoxyProxy Configuration]![image](https://github.com/user-attachments/assets/52363efe-068d-4077-b443-ae203980b311)
+
 
 ### Intercepting Data with Burp Suite
 
@@ -31,7 +32,7 @@ Once Burp Suite and FoxyProxy were configured, I started **intercepting data** t
 
 *Below is a screenshot of an intercepted request:*
 
-![Intercepted Data](images/InterceptedData.png)
+![Intercepted Data]!![Screenshot at 2024-09-04 09-58-18](https://github.com/user-attachments/assets/058a27d0-b2df-4e5a-854e-73485badb243)
 
 ## Installing and Exploring DVWA
 
@@ -86,6 +87,7 @@ DVWA provides a highly interactive learning environment with the following featu
 ### 4. **Customizable Security Configurations**
 
 DVWA allows users to customize various security configurations, such as database settings, security levels, and user accounts. This flexibility enables users to tailor the environment to their specific learning needs and experiment with different scenarios.
+![image](https://github.com/user-attachments/assets/e97800ae-76cb-494e-bfa0-93f4ab1dd822)
 
 ### 5. **Networking and Collaboration**
 
