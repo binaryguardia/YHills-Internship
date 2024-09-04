@@ -24,53 +24,52 @@ Linux commands are crucial for managing files, directories, and system services.
 Lists the contents of a directory.
 ```bash
 $ ls
+```
 Desktop  Documents  Downloads
 
 ```bash 
 cd
-
+```
 Changes the current directory.
 
-bash
+```bash
 
-$ cd Documents
-
-mkdir
+cd Documents
+```
 
 Creates a new directory.
+```
+mkdir
 
-bash
-
-$ mkdir Project
-
-rm
-
+mkdir Project
+```
 Removes files or directories. Use -r to remove directories recursively.
+```
+rm
+```
 
-bash
+
+```bash
 
 $ rm file.txt
 $ rm -r Project/
-
-cp
+```
 
 Copies files or directories from one location to another.
 
-bash
+```bash
 
 $ cp file.txt Project/
-
-mv
+```
 
 Moves or renames files or directories.
 
-bash
-
+```
 $ mv file.txt Project/
 $ mv oldname.txt newname.txt
-
+```
 Linux Directories
-
+`
     /: The root directory, the starting point of the file system.
     /home: Contains user home directories.
     /etc: Contains system configuration files.
@@ -84,34 +83,35 @@ ssh
 
 Connects to a remote server securely using SSH (Secure Shell).
 
-bash
+```bash
 
 $ ssh user@hostname
-
+```
+```
 systemctl
-
+```
 Manages system services and the system state. Examples include starting, stopping, and checking the status of services.
 
-bash
+```bash
 
 $ systemctl status ssh
 $ systemctl start ssh
 $ systemctl stop ssh
-
+```
 Connecting to Raspberry Pi and Gaining Shell Access
 
 To connect to a Raspberry Pi and access its shell:
-
+`
     Connect via SSH:
         Ensure the Raspberry Pi is connected to the network.
         Use SSH to connect from a terminal or command line.
 
-    bash
+ ```   bash
 
 $ ssh pi@<raspberry_pi_ip>
-
+```
 Gain Shell Access:
-
+`
     After connecting, you’ll have access to the Raspberry Pi’s shell to execute commands and manage the system.
 ## Running Linux Commands in Command Prompt Using WSL
 
