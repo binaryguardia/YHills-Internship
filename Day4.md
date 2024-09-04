@@ -72,6 +72,8 @@ A **hacking lab** using virtualization allows you to practice cybersecurity tech
     - Ensure you set the network to **Bridged Adapter** or **NAT** mode to connect your Kali VM to the same network as your host machine.
 
 ---
+![image](https://github.com/user-attachments/assets/233a3978-ae89-4dd2-b521-2bf97b57a0ed)
+
 
 ## **3. Terminator Terminal**
 
