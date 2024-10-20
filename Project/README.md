@@ -1,4 +1,4 @@
-# Cybersecurity Internship Projects
+# CyberSec PenTest Suite: Web & Network Vulnerability Assessment
 
 ## Overview
 These projects were completed as part of my internship at **Yhill Edutech Pvt. Ltd.**. The projects focus on penetration testing, vulnerability assessment, and network scanning for both web applications and virtual machines (VMs). Below are the details and findings for each project.
